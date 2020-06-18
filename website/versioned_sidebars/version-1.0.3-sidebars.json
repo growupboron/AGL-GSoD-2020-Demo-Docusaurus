@@ -1,0 +1,25 @@
+{
+  "version-1.0.3-docs": {
+    "Docusaurus": [
+      "version-1.0.3-doc1",
+      "version-1.0.3-doc9"
+    ],
+    "First Category": [
+      "version-1.0.3-doc2"
+    ],
+    "Second Category": [
+      "version-1.0.3-doc3"
+    ],
+    "Master-howto-reference-handle-docs": [
+      "version-1.0.3-abstract",
+      "version-1.0.3-documentation-usage",
+      "version-1.0.3-handle-docs"
+    ]
+  },
+  "version-1.0.3-docs-other": {
+    "First Category": [
+      "version-1.0.3-doc4",
+      "version-1.0.3-doc5"
+    ]
+  }
+}
